@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Dbones.Rhino.Etl.AssociateRow.AssociateRowTo&lt;T&gt;" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="6.5" Width="6.25" />
+    <TypeIdentifier>
+      <HashCode>ABAAAQCAAhAAAgAAAAAEAAAAAAAAAAAAAAAABBACAEA=</HashCode>
+      <FileName>AssociateRow\AssociateRowTo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dbones.Rhino.Etl.AssociateRow.AssociateRowToIdentity" BaseTypeListCollapsed="true">
+    <Position X="5" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAEAAAAAAEAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>AssociateRow\AssociateRowToIdentity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dbones.Rhino.Etl.AssociateRow.AssociateRowToMany" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAIACAAAAAAAAAAAAEAAAAAAAAAAAAAAAABBAAAAA=</HashCode>
+      <FileName>AssociateRow\AssociateRowToMany.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Dbones.Rhino.Etl.AssociateRow.IAssociateRowTo">
+    <Position X="0.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAEAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>AssociateRow\IAssociateRowTo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

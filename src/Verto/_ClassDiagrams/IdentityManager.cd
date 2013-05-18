@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Dbones.Rhino.Etl.IdManagement.IdentityManager">
+    <Position X="0.5" Y="1" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAEAAAAAQAAAAAAAAAAEAAAAAAAAABgA=</HashCode>
+      <FileName>IdManagement\IdentityManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dbones.Rhino.Etl.IdManagement.Identity">
+    <Position X="4.75" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAIBAAAAAAAAAABA=</HashCode>
+      <FileName>IdManagement\Identity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dbones.Rhino.Etl.IdManagement.CreateIds" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAACQAAAAAAAAQAAAAIAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>IdManagement\CreateIds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dbones.Rhino.Etl.IdManagement.ReadIds" Collapsed="true">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>IdManagement\ReadIds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Dbones.Rhino.Etl.IdManagement.IIdentityManager">
+    <Position X="5" Y="4" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAABgA=</HashCode>
+      <FileName>IdManagement\IIdentityManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

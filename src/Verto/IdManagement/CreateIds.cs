@@ -9,7 +9,7 @@
     /// </summary>
     public class CreateIds : AbstractOperation
     {
-        private readonly IdentityManager _identityManager;
+        private readonly IIdentityManager _identityManager;
         private readonly string _entity;
         private readonly string _oldIdColumn;
         private readonly string _newIdColumn;
@@ -21,7 +21,7 @@
         /// <param name="entity">entity which the id belongs to</param>
         /// <param name="oldIdColumn">the old id column name</param>
         /// <param name="newIdColumn">the new id column name, this will be appended onto each row</param>
-        public CreateIds(IdentityManager identityManager, string entity, string oldIdColumn, string newIdColumn)
+        public CreateIds(IIdentityManager identityManager, string entity, string oldIdColumn, string newIdColumn)
         {
             _identityManager = identityManager;
             _entity = entity;
